@@ -1,0 +1,19 @@
+
+.texter{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.items{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.exp{
+    margin: auto;
+    margin-top: 20%;
+    width: 50%;
+    padding: 20rpx;
+}
